@@ -11,5 +11,11 @@ public class Main
         System.out.println(point1);
         System.out.println(point2);
 
+        //================== String Test ==================
+        //use backslash to specify " "
+
+        String message = " Coucou \"Monsieur\"";
+        System.out.println(message);
+
     }
 }
