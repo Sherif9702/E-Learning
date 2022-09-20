@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34c61997-86a4-45f4-bae1-befa7b930640" name="Changes" comment="String Test">
+    <list default="true" id="34c61997-86a4-45f4-bae1-befa7b930640" name="Changes" comment="test3 : polymorphisme">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +36,11 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\JAVA-Projet1\src" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -67,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663319526710</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="test3 : polymorphisme">
+      <created>1663704419474</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663704419474</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -84,6 +95,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first test in IJ with Java" />
     <MESSAGE value="String Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="String Test" />
+    <MESSAGE value="test3 : polymorphisme" />
+    <option name="LAST_COMMIT_MESSAGE" value="test3 : polymorphisme" />
   </component>
 </project>
